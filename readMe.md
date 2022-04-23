@@ -1,5 +1,5 @@
 # STUDY
-Record what I've learned or studyed.
+Record what I've learned or studied.
 
 ### Index
 
