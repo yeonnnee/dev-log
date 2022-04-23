@@ -8,6 +8,7 @@
 <br>
 
 ### Getting Started
+----
 
 
 _**Download for macOS**_
@@ -24,6 +25,7 @@ macOS 용 패키지 관리 애플리케이션
 <br>
 
 ### Config git
+----
 
 - 전역 설정 세팅
     ``` $ git config --global user.name "yeonnnee" ``` <br />
