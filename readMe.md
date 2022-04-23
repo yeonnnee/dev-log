@@ -1,5 +1,4 @@
 # STUDY
--------
 Record what I've learned or studyed.
 
 ### Index
