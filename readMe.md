@@ -1,8 +1,8 @@
-#STUDY
+# STUDY
 -------
 Record what I've learned or studyed.
 
-###Index
+### Index
 
 - [DOM 이란?](dom/index.md)
 - [Javascript 란?](Javascript/index.md)
