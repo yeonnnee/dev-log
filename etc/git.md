@@ -7,9 +7,8 @@
 
 <br>
 
-#### Getting Started
+### Getting Started
 
-<br/>
 
 _**Download for macOS**_
 
@@ -24,10 +23,10 @@ macOS 용 패키지 관리 애플리케이션
 
 <br>
 
-#### Config git
+### Config git
 
 - 전역 설정 세팅
-    ``` $ git config --global user.name "yeonnnee" ```
+    ``` $ git config --global user.name "yeonnnee" ``` <br />
     ``` $ git config --global user.email yeonnnee@gmail.com ```
 
 
@@ -36,7 +35,7 @@ macOS 용 패키지 관리 애플리케이션
 
 
 - 전역 설정 삭제
-    ``` $ git config --global --unset user.name ```
+    ``` $ git config --global --unset user.name ``` <br />
     ``` $ git config --global --unset user.email ```
 
 <br>
@@ -74,7 +73,7 @@ macOS 용 패키지 관리 애플리케이션
 <br>
 <br>
 
-##### Rebase 취소하는 방법
+#### Rebase 취소하는 방법
 
 잘못 리베이스된 git이 remote까지 반영된 경우 취소해야 하는데 이때 reflog 와 reset을 사용하여 해결 할 수 있다.
 
