@@ -35,13 +35,15 @@ Why?
 How?
 ---
 
-- [기본 특징](./intro.md)
-- [기본 타입](./types.md)
-- [interface 타입 선언](./interface.md)
-- [타입 선언 방식](./declaration.md)
-- [class로 만들기](./class.md)
-- [enum](./enum.md)
-- [제네릭](./generic.md)
-- [타입 추론](./inference.md)
-- [타입 단언](./assertion.md)
-- [타입 가드](./guard.md)
+|Content                            | Date       |
+|-----------------------------------|------------|
+|[기본 특징](./intro.md)              | 2022-01-06 |
+|[기본 타입](./types.md)              | 2022-01-18 |
+|[interface 타입 선언](./interface.md)| 2022-01-26 |
+|[타입 선언 방식](./declaration.md)    | 2022-01-26 |
+|[class로 만들기](./class.md)         | 2022-01-27 |
+|[enum](./enum.md)                  | 2022-02-13 |
+|[제네릭](./generic.md)              | 2022-03-08 |
+|[타입 추론](./inference.md)          | 2022-03-16 |
+|[타입 단언](./assertion.md)          | 2022-03-17 |
+|[타입 가드](./guard.md)              | 2022-03-17 |
