@@ -1,6 +1,6 @@
 # Typescript
 
-기간 2022-01-06 ~ 2022-04-13
+기간 2022-01-06 ~ 2022-03-17
 
 
 What?
@@ -42,6 +42,6 @@ How?
 - [class로 만들기](./class.md)
 - [enum](./enum.md)
 - [제네릭](./generic.md)
-- [타입 추론](./typeInterface.md)
-- [타입 단언](./typeAssertion.md)
-- [타입 가드](./typeGuard.md)
+- [타입 추론](./inference.md)
+- [타입 단언](./assertion.md)
+- [타입 가드](./guard.md)
