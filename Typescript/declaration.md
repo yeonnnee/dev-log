@@ -1,6 +1,5 @@
 # Type Declaration
 
-2022-01-26
 
 what?
 ---

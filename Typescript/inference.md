@@ -1,8 +1,5 @@
 # Type Inference
 
-2022-03-16
-
-<br />
 What?
 ---
 
