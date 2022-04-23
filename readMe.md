@@ -10,4 +10,4 @@ Record what I've learned or studyed.
 - [알다가도 모를 React](React/index.md)
 - etc
     - [git 설치](etc/git.md)
-
+    - [SSH 란](etc/ssh.md)
