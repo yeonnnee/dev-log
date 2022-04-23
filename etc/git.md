@@ -40,7 +40,7 @@ macOS 용 패키지 관리 애플리케이션
 
 <br>
 
-#### Setting SSH
+### Setting SSH
 
 계정 주인이 본임임을 보증을 위해서 [SSH](./ssh.md) 공개키로 인증
 
@@ -51,7 +51,7 @@ macOS 용 패키지 관리 애플리케이션
  
 <br>
 
-#### git command
+### git command
 
 | command    | DESC      | Example        |
 | --------- | ----------- | ---------------|
@@ -73,7 +73,7 @@ macOS 용 패키지 관리 애플리케이션
 <br>
 <br>
 
-#### Rebase 취소하는 방법
+### Rebase 취소하는 방법
 
 잘못 리베이스된 git이 remote까지 반영된 경우 취소해야 하는데 이때 reflog 와 reset을 사용하여 해결 할 수 있다.
 
