@@ -14,6 +14,8 @@ Why?
 - 가끔 타입스크립트보다 개발자가 타입을 더 잘 알고 있는 경우가 있다. 이런 경우 타입 단언을 사용하여 타입을 명시해줄 수 있다.
 - **DOM 접근**에 효과적이다.
 
+<br/>
+
 - [ ]  **컴파일 과정에서 `타입 에러`를 없애주지만 오히혀 `런타임 에러`가 발생할 수 있다.**
 
 개발자 입장에서 코드 타입에 대해 확신있고, 불가피한 상황이 아니라면 any와 마찬가지로 타입단언의 사용은 지양합니다.
@@ -24,23 +26,24 @@ How?
 
 :one: `<Type>` 문법
     
-    ```jsx
-    getFormGroup(abstractControl: AbstractControl):FormGroup {
-      return <FromGroup>abstractControl;
-    }
-    ```
+  ```  
+  getFormGroup(abstractControl: AbstractControl):FormGroup {
+    return <FromGroup>abstractControl;
+  }
+  ```
+  
     
 
 :two: `as` 문법
     
-    ```jsx
-    getFormGroup(abstractControl: AbstractControl):FormGroup {
-      return abstractControl as FormGroup;
-    }
-    ```
+  ```
+  getFormGroup(abstractControl: AbstractControl):FormGroup {
+    return abstractControl as FormGroup;
+  }
+  ```
     
 
-- [ ]  React에서  **`<Type>`**키워드는 **JSX**의 문법과 겹쳐 `as`를 사용하는 것이 좋다.
+- [ ]  React에서  `<Type>` 키워드는 **JSX**의 문법과 겹쳐 `as`를 사용하는 것이 좋다.
 
 - DOM API
 
