@@ -18,7 +18,7 @@ Nested Group 구조를 갖게 되면 form이 복잡해져 난이도가 상승하
 
 <br />
 
-###Reactive Forms
+### Reactive Forms
 
 ***FormControl***
 Reactive Forms에서 최소 단위는 `FormControl` 이다.
