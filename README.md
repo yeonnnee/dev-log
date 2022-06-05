@@ -1,5 +1,5 @@
-# STUDY
-Records what I've learned or studied.
+# DevLog
+개발하면서 배운것들 기록
 
 ### Index
 
