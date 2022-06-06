@@ -29,10 +29,10 @@
 <br/>
 ### How?
 ---
-|Content                                  | Date       |
-|-----------------------------------------|------------|
-|[Interactive Forms ](./interactive-forms.md) | 2022-03-10|
-|[Using a checkbox with a reactive form](./check-box.md) | 2022-03-15|
+|Content                                     | Date            |
+|--------------------------------------------|-----------------|
+|[Interactive Forms](./interactive-forms.md) | 2022-03-10      |
+|[Using a checkbox with a reactive form](./check-box.md) |2022-03-15|
 |[Getting Started](./getting-started.md) | 2022-05-02 |
 
 
