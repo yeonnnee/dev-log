@@ -1,5 +1,5 @@
 # DevLog
-개발하면서 배우고 공부한 기록
+yeonnnee's 개발 일지
 
 ### Index
 
